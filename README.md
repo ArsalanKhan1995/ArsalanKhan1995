@@ -30,7 +30,7 @@ Hi, I'm Arsalan Khan, a passionate web developer from India.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 
 
-*NOTE: Most used languages card does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+*NOTE: Most used languages card does not indicate my skill level / proficiency in that particular language, it's a github metric of which languages i have used the most to code on github, it's a feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArsalanKhan1995&show_icons=true&include_all_commits=true&count_private=true&title_color=64ffda&bg_color=0a192f&icon_color=64ffda&text_color=ffff" alt="Arsalan's github stats" />
